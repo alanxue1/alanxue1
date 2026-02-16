@@ -6,4 +6,4 @@
 - won $5k @ telus ai hackathon (2nd place)
 - awarded 2nd place at [DeltaHacks](https://devpost.com/software/layoff-evaders) (500+ hackers)
 
-contact me: [X](https://x.com/alanxue_) - [LinkedIn](https://www.linkedin.com/in/alanxue1)
+[my site :)](https://www.alanxue.ca)
