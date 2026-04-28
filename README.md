@@ -3,7 +3,8 @@
 - 19 years old
 - product engineer @ [Hound Archives](https://houndarchives.com/)
 - processed [$300k+ USD](https://solscan.io/token/AgiHswJWGuef6bEDqTiU5iF7cDq1Z8Hj4xHFY2qdBAGS?visualize=true#activities) in [clash royale gambling](https://github.com/alanxue1/royalewager) (4.4k+ users 💸)
-- won $5k @ telus ai hackathon (2nd place)
+- received a win from Cloudinary at [LA Hacks 2026](https://devpost.com/software/sage-yvlpqb)
+- won $5k @ [telus ai hackathon](https://technationcanada.ca/en/news/ai-at-the-edge-of-innovation/) (2nd place)
 - awarded 2nd place at [DeltaHacks](https://devpost.com/software/layoff-evaders) (500+ hackers)
 
 [my site :)](https://www.alanxue.ca)
